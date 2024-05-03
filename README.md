@@ -1,6 +1,26 @@
-hola
-
-<!---
-Amathou/Amathou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+                                               .--.
+                                               `.  \
+                                                 \  \
+                                                  .  \
+                                                  :   .
+                                                  |    .
+                                                  |    :
+                                                  |    |
+  ..._  ___                                       |    |
+ `."".`''''""--..___                              |    |
+ ,-\  \             ""-...__         _____________/    |
+ / ` " '                    `""""""""                  .
+ \                                                      L
+ (>                                                      \
+/                                                         \
+\_    ___..---.                                            L
+  `--'         '.                                           \
+                 .                                           \_
+                _/`.                                           `.._
+             .'     -.                                             `.
+            /     __.-Y     /''''''-...___,...--------.._            |
+           /   _."    |    /                ' .      \   '---..._    |
+          /   /      /    /                _,. '    ,/           |   |
+          \_,'     _.'   /              /''     _,-'            _|   |
+                  '     /               `-----''               /     |
+                  `...-'                                       `...-'
